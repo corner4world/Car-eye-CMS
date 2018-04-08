@@ -1,10 +1,10 @@
-# Car-eye-streaming-media-server
+# Car-eye-cms
 
-Car-eye-streaming-media-sevver 一个功能强大的流媒体管理平台,负责设备管理，通信，负责服务器运营，负载均衡。
+Car-eye-cms 一个功能强大的流媒体管理平台,负责设备管理，通信，负责服务器运营，数据管理。
 
-## Car-eye-streaming-media-server 访问地址
+## Car-eye-CMS 访问地址
 
 目前暂定的访问地址是:http://39.108.229.40:8081/
 
-
-
+为什么我们要有Car-eye-CMS？
+我们已经了car-eye-server 他是基于车辆管理系统专门定制的管理平台. 而Car-eye-cms 是通用的流媒体设备，流媒体内容管理平台。
