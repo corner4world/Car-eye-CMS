@@ -1,4 +1,4 @@
-# Car-eye-cms
+# Car-eye-CMS
 
 Car-eye-cms 一个功能强大的流媒体管理平台,负责设备管理，通信，负责服务器运营，数据管理。
 
