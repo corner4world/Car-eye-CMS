@@ -15,7 +15,8 @@ Car-eye-cms 一个功能强大的流媒体管理平台,负责设备管理，通�
 
 ## 用户登陆
 
-输入用户名和密码，顶级登陆系统就可以登陆到car-eye-CMS系统。
+输入用户名和密码，顶级登陆系统就可以登陆到car-eye-CMS系统。       
+
 ![](https://github.com/Car-eye-team/Car-eye-CMS/blob/master/login.png)  
 
 
@@ -100,14 +101,6 @@ RTSP 播放的地址格式为RTSP://ip:port/设备号?channel=通道号.sdp
 的设置下，推送上服务器。进入到主界面直接点击视频播放：
 
 输入设备号，点击视频播放按钮，在点击flash控件就可以进行对设备的视频直播服务：
-
-
-
-
-
-
-
-
 
 
 
