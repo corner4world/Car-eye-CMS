@@ -25,9 +25,6 @@ Car-eye-cms 一个功能强大的流媒体管理平台,负责设备管理，通�
 
 选择系统权限->参数设置->服务器参数设置
 
-
-
-
 说明:
 
 协议类型：支持RTSP, RTMP两种协议
@@ -54,22 +51,15 @@ IP：RTSP 流媒体服务器IP地址，只有类型是RTSP才有效、
 
 
 
-查看设备，查看位置和视频
+## 查看设备，查看位置和视频
 
 选中设备即可看到自己设备在地图上显示出来
 
+![](https://github.com/Car-eye-team/Car-eye-CMS/blob/master/position.png)  
 
-选择车辆监控进入视频监控界面
+选择车辆监控进入视频监控界面,当协议类型是RTSP的时候,画面如下：
 
- 
-
-当协议类型是RTSP的时候：
-
- 
-
-画面如下：
-
-
+![](https://github.com/Car-eye-team/Car-eye-CMS/blob/master/main.png)  
 
 左边主要显示区域为四路标准监控的画面，有设备号，点击预览就可以远程链接设备进行视频预览。需要注意的是，这个需要与设备之间进行远程通信，建议使用car-eye-device进行视频预览。当打开设备进行预览的时候
 
@@ -81,9 +71,11 @@ RTSP 播放的地址格式为RTSP://ip:port/设备号?channel=通道号.sdp
 
  
 
-查看历史记录注：这个必须要用跟car-eye-device配合使用。具体按照car-eye通信协议实现对历史记录回放的调取工作。选择好设备和通道，需要回放的时间后点击视频搜索回放面就写出了视频播放文件列表
+## 查看历史记录
+注：这个必须要用跟car-eye-device配合使用,具体按照car-eye通信协议实现对历史记录回放的调取工作。 
+选择好设备和通道，需要回放的时间后点击视频搜索回放面就写出了视频播放文件列表
 
-
+![](https://github.com/Car-eye-team/Car-eye-CMS/blob/master/channel.png) 
 
 
 选择好文件后点击回放
@@ -102,7 +94,7 @@ RTSP 播放的地址格式为RTSP://ip:port/设备号?channel=通道号.sdp
 
 输入设备号，点击视频播放按钮，在点击flash控件就可以进行对设备的视频直播服务：
 
-
+![](https://github.com/Car-eye-team/Car-eye-CMS/blob/master/rtmp.png) 
 
 
 # 外部接口
