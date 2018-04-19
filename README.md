@@ -16,14 +16,14 @@ Car-eye-cms 一个功能强大的流媒体管理平台,负责设备管理，通�
 ## 用户登陆
 
 输入用户名和密码，顶级登陆系统就可以登陆到car-eye-CMS系统。
-
+![](https://github.com/Car-eye-team/Car-eye-CMS/blob/master/login.png)  
 
 
 
 ## 基础设置
 
-
 选择系统权限->参数设置->服务器参数设置
+
 
 
 
